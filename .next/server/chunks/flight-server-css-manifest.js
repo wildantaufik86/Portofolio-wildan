@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css_mods__":{"C:\\Project\\next-project\\src\\app\\page":["C:\\Project\\next-project\\src\\app\\globals.css"],"C:\\Project\\next-project\\src\\app\\pages\\profile\\page":["C:\\Project\\next-project\\src\\app\\globals.css"]},"C:\\Project\\next-project\\src\\app\\layout.js":["C:\\Project\\next-project\\src\\app\\globals.css"]}
